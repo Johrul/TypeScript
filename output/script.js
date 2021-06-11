@@ -6,4 +6,4 @@ function ishaal(a) {
 }
 console.log("I love " + ishaal("Ishaal"));
 var bp = function (b) { return b; };
-console.log("I like " + bp("Bipasha"));
+console.log("I like " + bp("Aysha Siddika"));
